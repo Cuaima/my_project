@@ -14,5 +14,5 @@ In order to execute the script:
 - `make clean` - Remove data files.
 - `make all` - Clean and prepare data.
 
-* You will need to have makefile installed in order to run the makefile commands.
+*You will need to have makefile build system installed in order to run the makefile commands.
 

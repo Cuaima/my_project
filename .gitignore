@@ -1,0 +1,6 @@
+data
+data/
+.log
+*.log
+*.tmp
+*.temp
